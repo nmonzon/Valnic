@@ -1298,6 +1298,7 @@ textarea {
 
 .footer-area .textwidget p {
   color: #333;
+  align-content: center;
 }
 
 .footer-area .footer-link li {
